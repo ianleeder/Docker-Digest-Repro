@@ -6,9 +6,6 @@
   "prHourlyLimit": 0,
   "packageRules": [
     {
-      "matchDatasources": [
-        "docker"
-      ],
       "matchFileNames": [
         "/.devcontainer/**"
       ],
